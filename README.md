@@ -28,8 +28,3 @@ The Library used in this project:<br/>
 js chart<br/>
 google chart<br/>
 bootstrap-4.6<br/>
-
-Who working on this project:<br/>
-1- Saleh Abbas<br/>
-2- kayan Abu Khizaran <br/>
-3- Fatima Twam<br/>
