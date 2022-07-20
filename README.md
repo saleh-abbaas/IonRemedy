@@ -2,7 +2,7 @@
 <br>
 Project Overview:<br>
 Our project primarly discusses the compliance with giving the medication at the right time in a hospital setting.  Furthermore, we studied the effect of the given medication on the patients’ observations. Henceforward, we will build a model where many patient features are analyzed, to predict the clinical measurments when a medication is administered.
-<br>
+<br><br>
 To run this project you want follow this steps:
 
 1- install Xammp server to run Apached and Mysql Servers <br />
